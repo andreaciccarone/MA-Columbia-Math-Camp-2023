@@ -17,7 +17,7 @@ Welcome ! This page hosts the course material of the August 2022 Math Camp for C
 * Email : <mailto:andrea.ciccarone@columbia.edu>
 * Graders : TBA
 
-* Dates : Monday Aug. 15 - Thur Sep. 21
+* Dates : Monday Aug. 15 - Thur Sep. 1
 * Time : 9:30am-12:00pm
 * Place : Hamilton 517 ([See a Map of Campus Here](https://cufo.columbia.edu/sites/default/files/content/morningsidemap_2015aug-7.pdf)) and on Zoom (link and recordings will be shared by email)
 * Office Hours : TBA
@@ -29,7 +29,7 @@ Welcome ! This page hosts the course material of the August 2022 Math Camp for C
 
 The course will cover the mathematical tools and concepts required for the first year sequence of the Master's in Economics. The main goal of the course is to prepare for first year classes by reviewing or introducing fundamental concepts in various domains of mathematics -- analysis, linear algebra, calculus, probability, optimization. A strong emphasis will be put on proof-writing skills and proper mathematical rigor, as well as problem-solving and application of the tools. Students are expected to have taken courses in elementary analysis and unidimensional calculus, as well as have some familiarity with concepts in probability and linear algebra.
 
-The class will be taught in a hybrid format from Monday August 16th to Thursday September 2nd. Lectures will be held in person (room TBA) every weekday from 9.30am to 12pm EST ; they will simultaneously be available on Zoom as well as recorded for asynchroneous attendance. If possible, students are strongly encouraged to attend the lectures in real time.
+The class will be taught in a hybrid format from Monday August 15th to Thursday September 1st. Lectures will be held in person (room TBA) every weekday from 9.30am to 12pm EST ; they will simultaneously be available on Zoom as well as recorded for asynchroneous attendance. If possible, students are strongly encouraged to attend the lectures in real time.
 
 The course is largely self-contained. Lecture notes will be posted on the website ; teaching itself will mostly take place on the blackboard but additional notes or slides might be provided. Some additional notes and textbook references are provided below.
 
@@ -41,45 +41,44 @@ Problem sets will be assigned weekly. They are important practice and will be gr
 
 Here is a tentative course outline (each main section is a link to the corresponding lecture notes) :
 
-1. [Preliminaries : Mathematical Logic, Sets, Functions, Numbers](https://cesarbarilla.github.io/Columbia-MA-Math-Camp-2021/Lecture%20Notes/0.%20Logic,%20Sets,%20Functions,%20Numbers_2021.pdf)
+1. [Preliminaries : Mathematical Logic, Sets, Functions, Numbers]
 	1. Introduction to Mathematical Logic
 	2. Sets
 	3. Relations
 	4. Functions
 	5. Numbers
 	6. Countability and Cardinality
-2. [Real Analysis](https://cesarbarilla.github.io/Columbia-MA-Math-Camp-2021/Lecture%20Notes/1.%20Real%20Analysis_2021.pdf)
+2. [Real Analysis]
 	1. Metric Spaces
 	2. Basic Topology
 	3. Sequences and Convergence
 	4. Compactness
 	5. Cauchy Sequences and Completeness
 	6. Continuity of Functions
-3. [Linear Algebra](https://cesarbarilla.github.io/Columbia-MA-Math-Camp-2021/Lecture%20Notes/2.%20Linear%20Algebra_2021.pdf)
+3. [Linear Algebra]
 	1. Vectors and Vector Spaces
 	2. Matrices
 	3. Systems of Linear Equations
 	4. Eigenvalues, Eigenvectors, and Diagonalization
 	5. Quadratic Forms
-4. [Multivariate Calculus](https://cesarbarilla.github.io/Columbia-MA-Math-Camp-2021/Lecture%20Notes/3.%20MVC_2021.pdf)
+4. [Multivariate Calculus]
 	1. Derivatives
 	2. Mean Value Theorem
 	3. Higher order derivatives and Taylor Expansions
 	4. Log-Linearization
 	5. Implicit and Inverse Function Theorems
 	6. (Riemanian) Integration
-5. [Convexity](https://cesarbarilla.github.io/Columbia-MA-Math-Camp-2021/Lecture%20Notes/4.%20Convexity_2021.pdf)
+5. [Convexity]
 	1. Convex Sets, Separation Theorem, Fixed Point Theorems
 	2. Convex and Concave Functions
 	3. Quasi-convex and Quasi-concave functions
-6. [Optimization](https://cesarbarilla.github.io/Columbia-MA-Math-Camp-2021/Lecture%20Notes/5.%20Optimization_2021.pdf)
+6. [Optimization]
 	1. General Setup
 	2. Result on the set of Maximizers
 	3. Optimization on $R^n$
 	4. Kuhn-Tucker Theorem
 	5. A brief introduction to dynamic programming
-7. Probability (TBD, if time permits)
-8. [Correspondences](https://cesarbarilla.github.io/Columbia-MA-Math-Camp-2021/Lecture%20Notes/7.%20Correspondences_2021.pdf) (if time permits)
+7. [Correspondences] (if time permits)
 
 Lectures notes are susceptible to being continuously updated (be sure to check the date of last update, which is always mentioned at the top of the pdf).
 
@@ -87,27 +86,15 @@ Lectures notes are susceptible to being continuously updated (be sure to check t
 
 Problem sets will be posted here. Below is a tentative schedule.
 
-1. [Problem Set 1 (Logic, Sets, Analysis)](https://cesarbarilla.github.io/Columbia-MA-Math-Camp-2021/Problem%20Sets/PS1_2021.pdf) 
+1. [Problem Set 1 (Logic, Sets, Analysis)
 	* Date Posted : Monday August 16th
 	* Date Due : Monday August 23rd
-	* [Download PDF](https://cesarbarilla.github.io/Columbia-MA-Math-Camp-2021/Problem%20Sets/PS1_2021.pdf) 
-	* [Download TeX file](https://cesarbarilla.github.io/Columbia-MA-Math-Camp-2021/Problem%20Sets/PS1_2021.tex)
-	* [Solutions](https://cesarbarilla.github.io/Columbia-MA-Math-Camp-2021/Problem%20Sets/PS1_Solutions_2021.pdf)
 2. Problem Set 2 (Real Analysis, Linear Algebra)
 	* Date Posted : Monday August 23rd
-	* Date Due : Monday August 30th
-	* [Download PDF](https://cesarbarilla.github.io/Columbia-MA-Math-Camp-2021/Problem%20Sets/PS2_2021.pdf) 
-	* [Download TeX file](https://cesarbarilla.github.io/Columbia-MA-Math-Camp-2021/Problem%20Sets/PS2_2021.tex)
-	* [Solutions](https://cesarbarilla.github.io/Columbia-MA-Math-Camp-2021/Problem%20Sets/PS2_Solutions_2021.pdf)	
+	* Date Due : Monday August 30th	
 3. Problem Set 3 (Multivariate Calculus, Convexity, Optimization)
 	* Date Posted : Monday August 30th
 	* Date Due : Monday September 6th
-	* [Download PDF](https://cesarbarilla.github.io/Columbia-MA-Math-Camp-2021/Problem%20Sets/PS3_2021.pdf) 
-	* [Download TeX file](https://cesarbarilla.github.io/Columbia-MA-Math-Camp-2021/Problem%20Sets/PS3_2021.tex)
-	* [Solutions](https://cesarbarilla.github.io/Columbia-MA-Math-Camp-2021/Problem%20Sets/PS3_Solutions_2021.pdf)	
-
-
-[Final Exam](https://cesarbarilla.github.io/Columbia-MA-Math-Camp-2021/Exam_2021.pdf) and [Solutions](https://cesarbarilla.github.io/Columbia-MA-Math-Camp-2021/Exam_2021_Solutions.pdf)	
 
 ### References and Textbooks
 
@@ -115,7 +102,7 @@ Two very useful short introductions to mathematical proofs :
 * [Proving Things, by Stéphane Dupraz](https://cesarbarilla.github.io/Columbia-MA-Math-Camp-2021/Lecture%20Notes/provingthings_Stephane.pdf)
 * [How to do proofs in Mathematics, by Xingye Wu](https://cesarbarilla.github.io/Columbia-MA-Math-Camp-2021/Lecture%20Notes/provingthings_Xingye.pdf)
 
-Lecture notes from last year's math camp are available [here](https://github.com/CesarBarilla/Columbia-MA-Math-Camp-2021/tree/main/2020%20Lecture%20Notes).
+Lecture notes from last year's math camp are available [here]
 
 Below is a list of useful references and textbooks sorted by theme. Within each theme, references are listed in (approximately) increasing complexity. References marked with a **(!)** are more advanced and are included either for future references or very motivated students. 
 * General references
