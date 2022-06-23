@@ -14,7 +14,7 @@ Welcome ! This page hosts the course material of the August 2022 Math Camp for C
 ## Course Information
 
 * Instructor : Andrea Ciccarone
-* Email : <mailto:andrea.ciccarone@columbia.edu>
+* Email : <mailto:ac4790@columbia.edu>
 * Graders : TBA
 
 * Dates : Monday Aug. 15 - Thur Sep. 1
