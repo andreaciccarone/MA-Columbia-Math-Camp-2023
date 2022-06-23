@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Columbia MA Math Camp 2021
+Welcome ! This page hosts the course material of the August 2021 Math Camp for Columbia's Economics Masters program.
 
-You can use the [editor on GitHub](https://github.com/andreaciccarone/MA-Columbia-Math-Camp-2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Table of Contents
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [Course Information](#course-information)
+* [Course Description](#course-description)
+* [Course Material](#course-material)
+    - [Outline and Lecture Notes](#course-outline-and-lecture-notes)
+    - [Problem Sets](#problem-sets)
+	- [References and Textbooks](#references-and-textbooks)
+	- [Past Exams and Problem Sets](#past-exams-and-problem-sets)
 
-### Markdown
+## Course Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Instructor : César Barilla
+* Email : <mailto:cesar.barilla@columbia.edu>
+* Graders : Utkarsh Kumar and Akanksha Vardani
 
-```markdown
-Syntax highlighted code block
+* Dates : Monday Aug. 16 - Thur Sep. 2 
+* Time : 9:30am-12:00pm
+* Place : Schermerhorn 614 ([See a Map of Campus Here](https://cufo.columbia.edu/sites/default/files/content/morningsidemap_2015aug-7.pdf)) and on Zoom (link and recordings will be shared by email)
+* Office Hours : TBA
 
-# Header 1
-## Header 2
-### Header 3
+* Syllabus : [Download Here](https://cesarbarilla.github.io/Columbia-MA-Math-Camp-2021/Syllabus.pdf)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Course Description
 
-**Bold** and _Italic_ and `Code` text
+The course will cover the mathematical tools and concepts required for the first year sequence of the Master's in Economics. The main goal of the course is to prepare for first year classes by reviewing or introducing fundamental concepts in various domains of mathematics -- analysis, linear algebra, calculus, probability, optimization. A strong emphasis will be put on proof-writing skills and proper mathematical rigor, as well as problem-solving and application of the tools. Students are expected to have taken courses in elementary analysis and unidimensional calculus, as well as have some familiarity with concepts in probability and linear algebra.
 
-[Link](url) and ![Image](src)
-```
+The class will be taught in a hybrid format from Monday August 16th to Thursday September 2nd. Lectures will be held in person (room TBA) every weekday from 9.30am to 12pm EST ; they will simultaneously be available on Zoom as well as recorded for asynchroneous attendance. If possible, students are strongly encouraged to attend the lectures in real time.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+The course is largely self-contained. Lecture notes will be posted on the website ; teaching itself will mostly take place on the blackboard but additional notes or slides might be provided. Some additional notes and textbook references are provided below.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andreaciccarone/MA-Columbia-Math-Camp-2022/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Problem sets will be assigned weekly. They are important practice and will be graded for feedback, although no grade will be given for the class. Problem sets will have to be submitted online (modalities to be specified) and will have to be typed -- LaTeX is very strongly encouraged as it is an extremely valuable skill that students should acquire as soon as possible. There will be a final exam -- the date and modality of the exam will be announced later.
