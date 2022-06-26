@@ -1,5 +1,5 @@
 # Columbia MA Math Camp 2022
-Welcome ! This page hosts the course material of the August 2022 Math Camp for Columbia's Economics Masters program.
+Welcome! This page hosts the course material of the August 2022 Math Camp for Columbia's Economics Master program.
 
 ## Table of Contents
 
@@ -27,19 +27,19 @@ Welcome ! This page hosts the course material of the August 2022 Math Camp for C
 
 ## Course Description
 
-The course will cover the mathematical tools and concepts required for the first year sequence of the Master's in Economics. The main goal of the course is to prepare for first year classes by reviewing or introducing fundamental concepts in various domains of mathematics -- analysis, linear algebra, calculus, probability, optimization. A strong emphasis will be put on proof-writing skills and proper mathematical rigor, as well as problem-solving and application of the tools. Students are expected to have taken courses in elementary analysis and unidimensional calculus, as well as have some familiarity with concepts in probability and linear algebra.
+The course will cover the mathematical tools and concepts required for the first year sequence of the Master in Economics. The main goal of the course is to prepare for first year classes by reviewing or introducing fundamental concepts in various domains of mathematics: real analysis, linear algebra, calculus and optimization. While studying these topics, we will refine proof-writing skills and develop familiarity with mathematical rigor and formality. Emphasis will also be put on problem-solving and application of the tools. While the course is largely self-contained, students are expected to have taken courses in elementary analysis and unidimensional calculus, as well as have some familiarity with concepts in linear algebra.
 
-The class will be taught in a hybrid format from Monday August 15th to Thursday September 1st. Lectures will be held in person (room TBA) every weekday from 9.30am to 12pm EST ; they will simultaneously be available on Zoom as well as recorded for asynchroneous attendance. If possible, students are strongly encouraged to attend the lectures in real time.
+The class will be taught in a hybrid format from Monday August 15th to Thursday September 1st. Lectures will be held in person (room TBA) every weekday from 9.30am to 12pm EST ; they will simultaneously be available on Zoom as well as recorded for asynchronous attendance. If possible, students are strongly encouraged to attend the lectures in real time.
 
 The course is largely self-contained. Lecture notes will be posted on the website ; teaching itself will mostly take place on the blackboard but additional notes or slides might be provided. Some additional notes and textbook references are provided below.
 
-Problem sets will be assigned weekly. They are important practice and will be graded for feedback, although no grade will be given for the class. Problem sets will have to be submitted online (modalities to be specified) and will have to be typed -- LaTeX is very strongly encouraged as it is an extremely valuable skill that students should acquire as soon as possible. There will be a final exam -- the date and modality of the exam will be announced later.
+Problem sets will be assigned weekly. These are important practice and will be graded for feedback, although no grade will be given for the class. Problem sets will have to be submitted online (modalities to be specified) and will have to be typed, in order to be graded. LaTeX is very strongly encouraged as it is an extremely valuable skill that students should acquire as soon as possible. There will be a final exam, the date and modality of the exam will be announced later.
 
 ## Course Material
 
 ### Course Outline and Lecture Notes
 
-Here is a tentative course outline (each main section is a link to the corresponding lecture notes) :
+Here is a tentative course outline (I will soon publish all the related lecture notes) :
 
 1. [Preliminaries : Mathematical Logic, Sets, Functions, Numbers]
 	1. Introduction to Mathematical Logic
@@ -75,34 +75,32 @@ Here is a tentative course outline (each main section is a link to the correspon
 6. [Optimization]
 	1. General Setup
 	2. Result on the set of Maximizers
-	3. Optimization on $R^n$
+	3. Optimization on R^n
 	4. Kuhn-Tucker Theorem
 	5. A brief introduction to dynamic programming
 7. [Correspondences] (if time permits)
 
-Lectures notes are susceptible to being continuously updated (be sure to check the date of last update, which is always mentioned at the top of the pdf).
+Lectures notes are susceptible to being continuously updated (be sure to check the date of last update, which is always mentioned at the top of the pdf). I’m sure there are typos in the notes. If you spot one, please point it out.
 
 ### Problem Sets and Exam
 
 Problem sets will be posted here. Below is a tentative schedule.
 
 1. [Problem Set 1 (Logic, Sets, Analysis)
-	* Date Posted : Monday August 16th
-	* Date Due : Monday August 23rd
+	* Date Posted : Monday August 15th
+	* Date Due : Monday August 22nd
 2. Problem Set 2 (Real Analysis, Linear Algebra)
-	* Date Posted : Monday August 23rd
-	* Date Due : Monday August 30th	
+	* Date Posted : Monday August 22nd
+	* Date Due : Monday August 29th	
 3. Problem Set 3 (Multivariate Calculus, Convexity, Optimization)
-	* Date Posted : Monday August 30th
-	* Date Due : Monday September 6th
+	* Date Posted : Monday August 29th
+	* Date Due : Monday September 5th
 
 ### References and Textbooks
 
 Two very useful short introductions to mathematical proofs : 
 * [Proving Things, by Stéphane Dupraz](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2022/Lecture%20Notes/provingthings_Stephane.pdf)
 * [How to do proofs in Mathematics, by Xingye Wu](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2022/Syllabus.pdf/Lecture%20Notes/provingthings_Xingye.pdf)
-
-Lecture notes from last year's math camp are available [here]
 
 Below is a list of useful references and textbooks sorted by theme. Within each theme, references are listed in (approximately) increasing complexity. References marked with a **(!)** are more advanced and are included either for future references or very motivated students. 
 * General references
@@ -136,4 +134,4 @@ The problem sets will have to be typed and students are encouraged to use LaTeX.
 
 ### Past Exams and Problem Sets
 
-You can find [Past Exams and Solutions Here](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2022/Past%20Exams) and [Past Problem Sets and Solutions here](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2022/Past%20Problem%20Sets).
+You can find [Past Exams and Solutions Here](https://github.com/andreaciccarone/MA-Columbia-Math-Camp-2022/tree/gh-pages/Past%20Exams) and [Past Problem Sets and Solutions here](https://github.com/andreaciccarone/MA-Columbia-Math-Camp-2022/tree/gh-pages/Past%20Problem%20Sets).
