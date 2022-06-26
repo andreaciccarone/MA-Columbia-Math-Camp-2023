@@ -22,7 +22,7 @@ Welcome ! This page hosts the course material of the August 2022 Math Camp for C
 * Place : Hamilton 517 ([See a Map of Campus Here](https://cufo.columbia.edu/sites/default/files/content/morningsidemap_2015aug-7.pdf)) and on Zoom (link and recordings will be shared by email)
 * Office Hours : TBA
 
-* Syllabus : [Download Here](https://cesarbarilla.github.io/MA-Columbia-Math-Camp-2022/Syllabus.pdf)
+* Syllabus : [Download Here](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2022/Syllabus.pdf)
 
 
 ## Course Description
@@ -99,8 +99,8 @@ Problem sets will be posted here. Below is a tentative schedule.
 ### References and Textbooks
 
 Two very useful short introductions to mathematical proofs : 
-* [Proving Things, by Stéphane Dupraz](https://cesarbarilla.github.io/Columbia-MA-Math-Camp-2021/Lecture%20Notes/provingthings_Stephane.pdf)
-* [How to do proofs in Mathematics, by Xingye Wu](https://cesarbarilla.github.io/Columbia-MA-Math-Camp-2021/Lecture%20Notes/provingthings_Xingye.pdf)
+* [Proving Things, by Stéphane Dupraz](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2022/Lecture%20Notes/provingthings_Stephane.pdf)
+* [How to do proofs in Mathematics, by Xingye Wu](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2022/Syllabus.pdf/Lecture%20Notes/provingthings_Xingye.pdf)
 
 Lecture notes from last year's math camp are available [here]
 
@@ -136,4 +136,4 @@ The problem sets will have to be typed and students are encouraged to use LaTeX.
 
 ### Past Exams and Problem Sets
 
-You can find [Past Exams and Solutions Here](https://github.com/CesarBarilla/Columbia-MA-Math-Camp-2021/tree/main/Past%20Exams) and [Past Problem Sets and Solutions here](https://github.com/CesarBarilla/Columbia-MA-Math-Camp-2021/tree/main/Past%20Problem%20Sets).
+You can find [Past Exams and Solutions Here](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2022/Past%20Exams) and [Past Problem Sets and Solutions here](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2022/Past%20Problem%20Sets).
