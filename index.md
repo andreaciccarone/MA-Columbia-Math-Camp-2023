@@ -22,14 +22,14 @@ Welcome! This page hosts the course material of the August 2022 Math Camp for Co
 * Place : Hamilton 517 ([See a Map of Campus Here](https://cufo.columbia.edu/sites/default/files/content/morningsidemap_2015aug-7.pdf)) and on Zoom (link and recordings will be shared by email)
 * Office Hours : TBA
 
-* Syllabus : [Download Here](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2022/Syllabus.pdf)
+* Syllabus : [Download Here](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2022/Syllabus_MathCamp.pdf.pdf)
 
 
 ## Course Description
 
 The course will cover the mathematical tools and concepts required for the first year sequence of the Master in Economics. The main goal of the course is to prepare for first year classes by reviewing or introducing fundamental concepts in various domains of mathematics: real analysis, linear algebra, calculus and optimization. While studying these topics, we will refine proof-writing skills and develop familiarity with mathematical rigor and formality. Emphasis will also be put on problem-solving and application of the tools. While the course is largely self-contained, students are expected to have taken courses in elementary analysis and unidimensional calculus, as well as have some familiarity with concepts in linear algebra.
 
-The class will be taught in a hybrid format from Monday August 15th to Thursday September 1st. Lectures will be held in person (room TBA) every weekday from 9.30am to 12pm EST ; they will simultaneously be available on Zoom as well as recorded for asynchronous attendance. If possible, students are strongly encouraged to attend the lectures in real time.
+The class will be taught in a hybrid format from Monday August 15th to Thursday September 1st. Lectures will be held in person (Hamilton 517) every weekday from 9.30am to 12pm EST ; they will simultaneously be available on Zoom as well as recorded for asynchronous attendance. If possible, students are strongly encouraged to attend the lectures in real time.
 
 The course is largely self-contained. Lecture notes will be posted on the website ; teaching itself will mostly take place on the blackboard but additional notes or slides might be provided. Some additional notes and textbook references are provided below.
 
@@ -100,7 +100,7 @@ Problem sets will be posted here. Below is a tentative schedule.
 
 Two very useful short introductions to mathematical proofs : 
 * [Proving Things, by Stéphane Dupraz](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2022/Lecture%20Notes/provingthings_Stephane.pdf)
-* [How to do proofs in Mathematics, by Xingye Wu](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2022/Syllabus.pdf/Lecture%20Notes/provingthings_Xingye.pdf)
+* [How to do proofs in Mathematics, by Xingye Wu](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2022/Lecture%20Notes/provingthings_Xingye.pdf)
 
 Below is a list of useful references and textbooks sorted by theme. Within each theme, references are listed in (approximately) increasing complexity. References marked with a **(!)** are more advanced and are included either for future references or very motivated students. 
 * General references
@@ -124,7 +124,7 @@ Below is a list of useful references and textbooks sorted by theme. Within each 
 	- Nancy L. Stokey, Robert E. Lucas Jr, and Edward C. Prescott. "Recursive Methods in Economic Dynamics" (1989), Harvard University Press.
 
 The problem sets will have to be typed and students are encouraged to use LaTeX. LaTeX is a powerful tool for seamless and systematic typesetting that produces clean and readable documents. It is arguably the best practical options to typeset mathematical notations and it is the standard tool in the academic world in Economics. For those that are not familiar with LaTeX, here are a few references to get started :
-* The website [Overleaf](www.overleaf.com) is a great practical way to get started with LaTeX. You can create a free account and work on LaTeX documents without having to install anything on your computer, it is all browser based. Furthermore, [Overleaf](www.overleaf.com) has some useful templates and a [very good guide to getting started with LaTeX](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) (which is useful even you choose to use another editor) and [many tutorials](https://www.overleaf.com/learn).
+* The website [Overleaf](https://www.overleaf.com) is a great practical way to get started with LaTeX. You can create a free account and work on LaTeX documents without having to install anything on your computer, it is all browser based. Furthermore, [Overleaf](https://www.overleaf.com) has some useful templates and a [very good guide to getting started with LaTeX](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) (which is useful even you choose to use another editor) and [many tutorials](https://www.overleaf.com/learn).
 * If you prefer to install a local LaTeX distribution and editor on your laptop, there are several good options that come "pre-packaged" with everything you need. Notable among those are [MikTeX](https://miktex.org/) for Windows or [MacTeX](https://tug.org/mactex/) for MacOS, which includes the editor [TeXshop](https://pages.uoregon.edu/koch/texshop/) and a number of useful packages.
 * For the more adventurous, you can download separately a [LaTeX distribution](https://www.latex-project.org/) and then pair it with any editor you like (VSCode, Sublime Text, Atom,...)
 * If you are strongly averse to writing explicit commands, [LyX](https://www.lyx.org/) is an alternative LaTeX-based software that wraps it in a more visual "Word-like" environment.
