@@ -39,16 +39,16 @@ Problem sets will be assigned weekly. These are important practice and will be g
 
 ### Course Outline and Lecture Notes
 
-Here is a tentative course outline (I will soon publish all the related lecture notes) :
+Here is a tentative course outline :
 
-1. [Preliminaries : Mathematical Logic, Sets, Functions, Numbers]
+1. [Preliminaries : Mathematical Logic, Sets, Functions, Numbers](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2022/0. Logic, Sets, Functions, Numbers_2022)
 	1. Introduction to Mathematical Logic
 	2. Sets
 	3. Relations
 	4. Functions
 	5. Numbers
 	6. Countability and Cardinality
-2. [Real Analysis]
+2. [Real Analysis](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2022/1. Real Analysis_2022.pdf)
 	1. Metric Spaces
 	2. Basic Topology
 	3. Sequences and Convergence
