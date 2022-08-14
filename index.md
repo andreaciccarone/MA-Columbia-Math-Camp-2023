@@ -86,7 +86,7 @@ Lectures notes are susceptible to being continuously updated (be sure to check t
 
 Problem sets will be posted here. Below is a tentative schedule.
 
-1. [Problem Set 1 (Logic, Sets, Analysis)
+1. [Problem Set 1 (Logic, Sets, Analysis)](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Problem Sets/PS1_2022.pdf)
 	* Date Posted : Monday August 15th
 	* Date Due : Monday August 22nd
 2. Problem Set 2 (Real Analysis, Linear Algebra)
