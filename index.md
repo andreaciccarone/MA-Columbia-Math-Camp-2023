@@ -89,7 +89,7 @@ Problem sets will be posted here. Below is a tentative schedule.
 1. [Problem Set 1 (Logic, Sets, Analysis)](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Problem Sets/PS1_2022.pdf)
 	* Date Posted : Monday August 15th
 	* Date Due : Monday August 22nd
-2. Problem Set 2 (Real Analysis, Linear Algebra)(https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Problem Sets/PS2_2022.pdf)
+2. [Problem Set 2 (Real Analysis, Linear Algebra)](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Problem Sets/PS2_2022.pdf)
 	* Date Posted : Monday August 22nd
 	* Date Due : Monday August 29th	
 3. Problem Set 3 (Multivariate Calculus, Convexity, Optimization)
