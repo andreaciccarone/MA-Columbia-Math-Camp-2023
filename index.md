@@ -69,7 +69,7 @@ Here is a tentative course outline :
 	4. Log-Linearization
 	5. Implicit and Inverse Function Theorems
 	6. (Riemanian) Integration
-5. [Convexity]
+5. [Convexity](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Lecture%20Notes/2.%20Convexity_2022.pdf)
 	1. Convex Sets, Separation Theorem, Fixed Point Theorems
 	2. Convex and Concave Functions
 	3. Quasi-convex and Quasi-concave functions
@@ -93,7 +93,7 @@ Problem sets will be posted here. Below is a tentative schedule.
 	* [Solutions](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Problem Sets/Solutions/PS1_Solutions_2022.pdf)
 2. [Problem Set 2 (Real Analysis, Linear Algebra)](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Problem Sets/PS2_2022.pdf)
 	* Date Posted : Monday August 22nd
-	* Date Due : Monday August 29th	
+	* Date Due : Tuesday August 30th	
 3. Problem Set 3 (Multivariate Calculus, Convexity, Optimization)
 	* Date Posted : Monday August 29th
 	* Date Due : Monday September 5th
