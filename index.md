@@ -69,7 +69,7 @@ Here is a tentative course outline :
 	4. Log-Linearization
 	5. Implicit and Inverse Function Theorems
 	6. (Riemanian) Integration
-5. [Convexity](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Lecture%20Notes/2.%20Convexity_2022.pdf)
+5. [Convexity](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Lecture%20Notes/4.%20Convexity_2022.pdf)
 	1. Convex Sets, Separation Theorem, Fixed Point Theorems
 	2. Convex and Concave Functions
 	3. Quasi-convex and Quasi-concave functions
