@@ -79,7 +79,7 @@ Here is a tentative course outline :
 	3. Optimization on R^n
 	4. Kuhn-Tucker Theorem
 	5. A brief introduction to dynamic programming
-7. [Correspondences] (if time permits)
+7. [Correspondences](https://github.com/andreaciccarone/MA-Columbia-Math-Camp-2022/blob/gh-pages/Lecture%20Notes/6.%20Correspondences_2022.pdf) - if time permits
 
 Lectures notes are susceptible to being continuously updated (be sure to check the date of last update, which is always mentioned at the top of the pdf). I’m sure there are typos in the notes. If you spot one, please point it out.
 
