@@ -73,7 +73,7 @@ Here is a tentative course outline :
 	1. Convex Sets, Separation Theorem, Fixed Point Theorems
 	2. Convex and Concave Functions
 	3. Quasi-convex and Quasi-concave functions
-6. [Optimization](https://github.com/andreaciccarone/MA-Columbia-Math-Camp-2022/blob/gh-pages/Lecture%20Notes/5.%20Optimization_2022.pdf) [Slides](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Lecture%20Notes/Optimization_Slides.pdf)
+6. [Optimization](https://github.com/andreaciccarone/MA-Columbia-Math-Camp-2022/blob/gh-pages/Lecture%20Notes/5.%20Optimization_2022.pdf) with [Slides](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Lecture%20Notes/Optimization_Slides.pdf)
 	1. General Setup
 	2. Result on the set of Maximizers
 	3. Optimization on R^n
@@ -94,6 +94,7 @@ Problem sets will be posted here. Below is a tentative schedule.
 2. [Problem Set 2 (Real Analysis, Linear Algebra)](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Problem Sets/PS2_2022.pdf)
 	* Date Posted : Monday August 22nd
 	* Date Due : Tuesday August 30th	
+	* [Solutions](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Problem Sets/Solutions/PS2_Solutions_2022.pdf)
 3. [Problem Set 3 (Multivariate Calculus, Convexity, Optimization)](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Problem%20Sets/PS3_2022.pdf)
 	* Date Posted : Monday August 29th
 	* Date Due : Monday September 5th
