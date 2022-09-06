@@ -98,6 +98,8 @@ Problem sets will be posted here. Below is a tentative schedule.
 3. [Problem Set 3 (Multivariate Calculus, Convexity, Optimization)](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Problem%20Sets/PS3_2022.pdf)
 	* Date Posted : Monday August 29th
 	* Date Due : Monday September 5th
+	* [Solutions](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Problem Sets/Solutions/PS3_Solutions_2022.pdf)
+
 
 ### References and Textbooks
 
