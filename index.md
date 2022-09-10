@@ -100,6 +100,9 @@ Problem sets will be posted here. Below is a tentative schedule.
 	* Date Due : Monday September 5th
 	* [Solutions](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Problem Sets/Solutions/PS3_Solutions_2022.pdf)
 
+4. [Final Exam](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Math_Camp_Exam.pdf)
+	* [Solutions](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Math_Camp_Exam_Solutions.pdf)
+
 
 ### References and Textbooks
 
