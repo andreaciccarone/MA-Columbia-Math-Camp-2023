@@ -17,7 +17,7 @@ Welcome! This page hosts the course material of the August 2023 Math Camp for Co
 * Email : <mailto:ac4790@columbia.edu>
 * Graders : TBA
 
-* Dates : TBA
+* Dates : Monday Aug. 14 - Thur Aug. 31
 * Time : TBA
 * Place : TBA ([See a Map of Campus Here](https://cufo.columbia.edu/sites/default/files/content/morningsidemap_2015aug-7.pdf)) and on Zoom (link and recordings will be shared by email)
 * Office Hours : TBA
@@ -29,7 +29,7 @@ Welcome! This page hosts the course material of the August 2023 Math Camp for Co
 
 The course will cover the mathematical tools and concepts required for the first year sequence of the Master in Economics. The main goal of the course is to prepare for first year classes by reviewing or introducing fundamental concepts in various domains of mathematics: real analysis, linear algebra, calculus and optimization. While studying these topics, we will refine proof-writing skills and develop familiarity with mathematical rigor and formality. Emphasis will also be put on problem-solving and application of the tools. While the course is largely self-contained, students are expected to have taken courses in elementary analysis and unidimensional calculus, as well as have some familiarity with concepts in linear algebra.
 
-The class will be taught in a hybrid format from Monday August 15th to Thursday September 1st. Lectures will be held in person (Hamilton 517) every weekday from 9.30am to 12pm EST ; they will simultaneously be available on Zoom as well as recorded for asynchronous attendance. If possible, students are strongly encouraged to attend the lectures in real time.
+The class will be taught in a hybrid format from Monday August 14th to Thursday August 31st. Lectures will be held in person (Hamilton 517) every weekday from 9.30am to 12pm EST ; they will simultaneously be available on Zoom as well as recorded for asynchronous attendance. If possible, students are strongly encouraged to attend the lectures in real time.
 
 The course is largely self-contained. Lecture notes will be posted on the website ; teaching itself will mostly take place on the blackboard but additional notes or slides might be provided. Some additional notes and textbook references are provided below.
 

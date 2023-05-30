@@ -19,7 +19,7 @@ Welcome! This page hosts the course material of the August 2023 Math Camp for Co
 
 * Dates : Monday Aug. 14 - Thur Aug. 31
 * Time : TBA
-* Place : Hamilton 517 ([See a Map of Campus Here](https://cufo.columbia.edu/sites/default/files/content/morningsidemap_2015aug-7.pdf)) and on Zoom (link and recordings will be shared by email)
+* Place : TBA ([See a Map of Campus Here](https://cufo.columbia.edu/sites/default/files/content/morningsidemap_2015aug-7.pdf)) and on Zoom (link and recordings will be shared by email)
 * Office Hours : TBA
 
 * Syllabus : [Download Here](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2023/Syllabus.pdf)
