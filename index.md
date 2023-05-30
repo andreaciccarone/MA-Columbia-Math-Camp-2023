@@ -1,5 +1,5 @@
-# Columbia MA Math Camp 2022
-Welcome! This page hosts the course material of the August 2022 Math Camp for Columbia's Economics Master program.
+# Columbia MA Math Camp 2023
+Welcome! This page hosts the course material of the August 2023 Math Camp for Columbia's Economics Master program.
 
 ## Table of Contents
 
@@ -17,12 +17,12 @@ Welcome! This page hosts the course material of the August 2022 Math Camp for Co
 * Email : <mailto:ac4790@columbia.edu>
 * Graders : TBA
 
-* Dates : Monday Aug. 15 - Thur Sep. 1
-* Time : 9:30am-12:00pm
-* Place : Hamilton 517 ([See a Map of Campus Here](https://cufo.columbia.edu/sites/default/files/content/morningsidemap_2015aug-7.pdf)) and on Zoom (link and recordings will be shared by email)
+* Dates : TBA
+* Time : TBA
+* Place : TBA ([See a Map of Campus Here](https://cufo.columbia.edu/sites/default/files/content/morningsidemap_2015aug-7.pdf)) and on Zoom (link and recordings will be shared by email)
 * Office Hours : TBA
 
-* Syllabus : [Download Here](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2022/Syllabus_MathCamp.pdf)
+* Syllabus : [Download Here](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2023/Syllabus_MathCamp.pdf)
 
 
 ## Course Description
@@ -41,27 +41,27 @@ Problem sets will be assigned weekly. These are important practice and will be g
 
 Here is a tentative course outline :
 
-1. [Preliminaries : Mathematical Logic, Sets, Functions, Numbers](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Lecture%20Notes/0.%20Logic%2C%20Sets%2C%20Functions%2C%20Numbers_2022.pdf)
+1. [Preliminaries : Mathematical Logic, Sets, Functions, Numbers]
 	1. Introduction to Mathematical Logic
 	2. Sets
 	3. Relations
 	4. Functions
 	5. Numbers
 	6. Countability and Cardinality
-2. [Real Analysis](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Lecture%20Notes/1.%20Real%20Analysis_2022.pdf)
+2. [Real Analysis]
 	1. Metric Spaces
 	2. Basic Topology
 	3. Sequences and Convergence
 	4. Compactness
 	5. Cauchy Sequences and Completeness
 	6. Continuity of Functions
-3. [Linear Algebra](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Lecture%20Notes/2.%20Linear%20Algebra_2022.pdf)
+3. [Linear Algebra]
 	1. Vectors and Vector Spaces
 	2. Matrices
 	3. Systems of Linear Equations
 	4. Eigenvalues, Eigenvectors, and Diagonalization
 	5. Quadratic Forms
-4. [Multivariate Calculus](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Lecture%20Notes/3.%20MVC_2022.pdf) with [Slides](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Lecture%20Notes/MVC_Slides_1.pdf)
+4. [Multivariate Calculus]
 
 	1. Derivatives
 	2. Mean Value Theorem
@@ -69,46 +69,40 @@ Here is a tentative course outline :
 	4. Log-Linearization
 	5. Implicit and Inverse Function Theorems
 	6. (Riemanian) Integration
-5. [Convexity](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Lecture%20Notes/4.%20Convexity_2022.pdf)
+5. [Convexity]
 	1. Convex Sets, Separation Theorem, Fixed Point Theorems
 	2. Convex and Concave Functions
 	3. Quasi-convex and Quasi-concave functions
-6. [Optimization](https://github.com/andreaciccarone/MA-Columbia-Math-Camp-2022/blob/gh-pages/Lecture%20Notes/5.%20Optimization_2022.pdf) with [Slides](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Lecture%20Notes/Optimization_Slides.pdf)
+6. [Optimization]
 	1. General Setup
 	2. Result on the set of Maximizers
 	3. Optimization on R^n
 	4. Kuhn-Tucker Theorem
 	5. A brief introduction to dynamic programming
-7. [Correspondences](https://github.com/andreaciccarone/MA-Columbia-Math-Camp-2022/blob/gh-pages/Lecture%20Notes/6.%20Correspondences_2022.pdf) - if time permits
+7. [Correspondences] - if time permits
 
 Lectures notes are susceptible to being continuously updated (be sure to check the date of last update, which is always mentioned at the top of the pdf). I’m sure there are typos in the notes. If you spot one, please point it out.
 
 ### Problem Sets and Exam
 
-Problem sets will be posted here. Below is a tentative schedule.
+Problem sets will be posted here.
 
-1. [Problem Set 1 (Logic, Sets, Analysis)](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Problem Sets/PS1_2022.pdf)
-	* Date Posted : Monday August 15th
-	* Date Due : Monday August 22nd
-	* [Solutions](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Problem Sets/Solutions/PS1_Solutions_2022.pdf)
-2. [Problem Set 2 (Real Analysis, Linear Algebra)](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Problem Sets/PS2_2022.pdf)
-	* Date Posted : Monday August 22nd
-	* Date Due : Tuesday August 30th	
-	* [Solutions](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Problem Sets/Solutions/PS2_Solutions_2022.pdf)
-3. [Problem Set 3 (Multivariate Calculus, Convexity, Optimization)](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Problem%20Sets/PS3_2022.pdf)
-	* Date Posted : Monday August 29th
-	* Date Due : Monday September 5th
-	* [Solutions](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Problem Sets/Solutions/PS3_Solutions_2022.pdf)
-
-4. [Final Exam](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Math_Camp_Exam.pdf)
-	* [Solutions](https://raw.githubusercontent.com/andreaciccarone/MA-Columbia-Math-Camp-2022/gh-pages/Math_Camp_Exam_Solutions.pdf)
+1. [Problem Set 1 (Logic, Sets, Analysis)]
+	* Date Posted : Monday August 14th
+	* Date Due : Monday August 21st
+2. [Problem Set 2 (Real Analysis, Linear Algebra)]
+	* Date Posted : Monday August 21st
+	* Date Due : Tuesday August 28th	
+3. [Problem Set 3 (Multivariate Calculus, Convexity, Optimization)]
+	* Date Posted : Monday August 28th
+	* Date Due : Monday September 4th
 
 
 ### References and Textbooks
 
 Two very useful short introductions to mathematical proofs : 
-* [Proving Things, by Stéphane Dupraz](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2022/Lecture%20Notes/provingthings_Stephane.pdf)
-* [How to do proofs in Mathematics, by Xingye Wu](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2022/Lecture%20Notes/provingthings_Xingye.pdf)
+* [Proving Things, by Stéphane Dupraz](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2023/Lecture%20Notes/provingthings_Stephane.pdf)
+* [How to do proofs in Mathematics, by Xingye Wu](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2023/Lecture%20Notes/provingthings_Xingye.pdf)
 
 Below is a list of useful references and textbooks sorted by theme. Within each theme, references are listed in (approximately) increasing complexity. References marked with a **(!)** are more advanced and are included either for future references or very motivated students. 
 * General references
@@ -134,12 +128,12 @@ Below is a list of useful references and textbooks sorted by theme. Within each 
 The problem sets will have to be typed and students are encouraged to use LaTeX. LaTeX is a powerful tool for seamless and systematic typesetting that produces clean and readable documents. It is arguably the best practical options to typeset mathematical notations and it is the standard tool in the academic world in Economics. For those that are not familiar with LaTeX, here are a few references to get started :
 * The website [Overleaf](https://www.overleaf.com) is a great practical way to get started with LaTeX. You can create a free account and work on LaTeX documents without having to install anything on your computer, it is all browser based. Furthermore, [Overleaf](https://www.overleaf.com) has some useful templates and a [very good guide to getting started with LaTeX](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) (which is useful even you choose to use another editor) and [many tutorials](https://www.overleaf.com/learn).
 * If you prefer to install a local LaTeX distribution and editor on your laptop, there are several good options that come "pre-packaged" with everything you need. Notable among those are [MikTeX](https://miktex.org/) for Windows or [MacTeX](https://tug.org/mactex/) for MacOS, which includes the editor [TeXshop](https://pages.uoregon.edu/koch/texshop/) and a number of useful packages.
+* [LyX](https://www.lyx.org/) is an alternative LaTeX-based software that wraps it in a more visual "Word-like" environment which I strongly suggest for starters.
 * For the more adventurous, you can download separately a [LaTeX distribution](https://www.latex-project.org/) and then pair it with any editor you like (VSCode, Sublime Text, Atom,...)
-* If you are strongly averse to writing explicit commands, [LyX](https://www.lyx.org/) is an alternative LaTeX-based software that wraps it in a more visual "Word-like" environment.
 * Another good guide to LaTeX : [The Not So Short Guide to LaTeX](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiI69WrmojxAhUPZd8KHcL6D4kQFjAAegQIAxAD&url=https%3A%2F%2Ftobi.oetiker.ch%2Flshort%2Flshort.pdf&usg=AOvVaw2H-66YoZTXtmBuNDfl3mcl)
 * A useful guide for all the math command that you might need in the AMS package : [Short Math Guide for LaTeX](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwis9OzumojxAhWOT98KHQE6BFgQFjAAegQIBBAD&url=http%3A%2F%2Ftug.ctan.org%2Finfo%2Fshort-math-guide%2Fshort-math-guide.pdf&usg=AOvVaw2xgiC2cYnygUWte5jHJYyo)
 * There are a lot of good LaTeX tutorials out there, don't hesitate to look for them and see if you find one you like. Most importantly, after you grasp the general idea of how LaTeX works, you'll learn the most by just using it and figuring out how to do what you need to do.
 
 ### Past Exams and Problem Sets
 
-You can find [Past Exams and Solutions Here](https://github.com/andreaciccarone/MA-Columbia-Math-Camp-2022/tree/gh-pages/Past%20Exams) and [Past Problem Sets and Solutions here](https://github.com/andreaciccarone/MA-Columbia-Math-Camp-2022/tree/gh-pages/Past%20Problem%20Sets).
+You can find [Past Exams and Solutions Here](https://github.com/andreaciccarone/MA-Columbia-Math-Camp-2023/tree/gh-pages/Past%20Exams) and [Past Problem Sets and Solutions here](https://github.com/andreaciccarone/MA-Columbia-Math-Camp-2023/tree/gh-pages/Past%20Problem%20Sets).
