@@ -18,8 +18,8 @@ Welcome! This page hosts the course material of the August 2023 Math Camp for Co
 * Graders : TBA
 
 * Dates : Monday Aug. 14 - Thur Aug. 31
-* Time : TBA
-* Place : TBA ([See a Map of Campus Here](https://cufo.columbia.edu/sites/default/files/content/morningsidemap_2015aug-7.pdf)) and on Zoom (link and recordings will be shared by email)
+* Time : 9:30am - 12:00pm
+* Place : Hamilton 517 ([See a Map of Campus Here](https://cufo.columbia.edu/sites/default/files/content/morningsidemap_2015aug-7.pdf)) and on Zoom (link and recordings will be shared by email)
 * Office Hours : TBA
 
 * Syllabus : [Download Here](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2023/Syllabus_MathCamp.pdf)
@@ -41,14 +41,14 @@ Problem sets will be assigned weekly. These are important practice and will be g
 
 Here is a tentative course outline :
 
-1. [Preliminaries : Mathematical Logic, Sets, Functions, Numbers]
+1. [Preliminaries : Mathematical Logic, Sets, Functions, Numbers](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2023/Lecture Notes/0. Logic, Sets, Functions, Numbers_2023.pdf)
 	1. Introduction to Mathematical Logic
 	2. Sets
 	3. Relations
 	4. Functions
 	5. Numbers
 	6. Countability and Cardinality
-2. [Real Analysis]
+2. [Real Analysis](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2023/Lecture Notes/1. Real Analysis_2023.pdf)
 	1. Metric Spaces
 	2. Basic Topology
 	3. Sequences and Convergence
