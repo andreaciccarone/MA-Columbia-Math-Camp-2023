@@ -86,15 +86,15 @@ Lectures notes are susceptible to being continuously updated (be sure to check t
 
 Problem sets will be posted here. Below is a tentative schedule.
 
-1. [Problem Set 1 (Logic, Sets, Analysis)]
-	* Date Posted : Monday August 15th
-	* Date Due : Monday August 22nd
+1. [Problem Set 1 (Logic, Sets, Analysis)](https://github.com/andreaciccarone/MA-Columbia-Math-Camp-2023/blob/gh-pages/Problem%20Sets/PS1_2023.pdf
+	* Date Posted : Monday August 14th
+	* Date Due : Monday August 21SR
 2. Problem Set 2 (Real Analysis, Linear Algebra)
-	* Date Posted : Monday August 22nd
-	* Date Due : Monday August 29th	
+	* Date Posted : Monday August 21ST
+	* Date Due : Monday August 28th	
 3. Problem Set 3 (Multivariate Calculus, Convexity, Optimization)
-	* Date Posted : Monday August 29th
-	* Date Due : Monday September 5th
+	* Date Posted : Monday August 28th
+	* Date Due : Monday September 4th
 
 ### References and Textbooks
 

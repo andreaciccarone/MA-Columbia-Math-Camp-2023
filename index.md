@@ -87,7 +87,7 @@ Lectures notes are susceptible to being continuously updated (be sure to check t
 
 Problem sets will be posted here.
 
-1. [Problem Set 1 (Logic, Sets, Analysis)]
+1. [Problem Set 1 (Logic, Sets, Analysis)](https://github.com/andreaciccarone/MA-Columbia-Math-Camp-2023/blob/gh-pages/Problem%20Sets/PS1_2023.pdf)
 	* Date Posted : Monday August 14th
 	* Date Due : Monday August 21st
 2. [Problem Set 2 (Real Analysis, Linear Algebra)]
