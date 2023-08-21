@@ -55,7 +55,7 @@ Here is a tentative course outline :
 	4. Compactness
 	5. Cauchy Sequences and Completeness
 	6. Continuity of Functions
-3. [Linear Algebra]((https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2023/Lecture%20Notes/2.%20Linear%20Algebra_2023.pdf))
+3. [Linear Algebra](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2023/Lecture%20Notes/2.%20Linear%20Algebra_2023.pdf)
 	1. Vectors and Vector Spaces
 	2. Matrices
 	3. Systems of Linear Equations
