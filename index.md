@@ -61,7 +61,7 @@ Here is a tentative course outline :
 	3. Systems of Linear Equations
 	4. Eigenvalues, Eigenvectors, and Diagonalization
 	5. Quadratic Forms
-4. [Multivariate Calculus]
+4. [Multivariate Calculus](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2023/Lecture%20Notes/3.%20MVC_2023.pdf) with [slides](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2023/Lecture%20Notes/MVC_Slides_1.pdf)
 
 	1. Derivatives
 	2. Mean Value Theorem
