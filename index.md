@@ -69,11 +69,11 @@ Here is a tentative course outline :
 	4. Log-Linearization
 	5. Implicit and Inverse Function Theorems
 	6. (Riemanian) Integration
-5. [Convexity]
+5. [Convexity](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2023/Lecture%20Notes/4.%20Convexity_2023.pdf)
 	1. Convex Sets, Separation Theorem, Fixed Point Theorems
 	2. Convex and Concave Functions
 	3. Quasi-convex and Quasi-concave functions
-6. [Optimization]
+6. [Optimization](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2023/Lecture%20Notes/5.%20Optimization_2023.pdf)
 	1. General Setup
 	2. Result on the set of Maximizers
 	3. Optimization on R^n
