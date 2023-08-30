@@ -95,7 +95,7 @@ Problem sets will be posted here.
 	* Date Due : Tuesday August 28th	
 3. [Problem Set 3 (Multivariate Calculus, Convexity, Optimization)] (https://github.com/andreaciccarone/MA-Columbia-Math-Camp-2023/blob/gh-pages/Problem%20Sets/PS3_2023.pdf)
 	* Date Posted : Monday August 28th
-	* Date Due : Monday September 4th
+	* Date Due : Tuesday September 5th
 
 
 ### References and Textbooks
