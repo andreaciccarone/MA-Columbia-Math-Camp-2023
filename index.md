@@ -79,7 +79,7 @@ Here is a tentative course outline :
 	3. Optimization on R^n
 	4. Kuhn-Tucker Theorem
 	5. A brief introduction to dynamic programming
-7. [Correspondences] - if time permits
+7. [Correspondences](https://andreaciccarone.github.io/MA-Columbia-Math-Camp-2023/Lecture%20Notes/6.%20Correspondences_2023.pdf) - if time permits
 
 Lectures notes are susceptible to being continuously updated (be sure to check the date of last update, which is always mentioned at the top of the pdf). I’m sure there are typos in the notes. If you spot one, please point it out.
 
@@ -93,7 +93,7 @@ Problem sets will be posted here.
 2. [Problem Set 2 (Real Analysis, Linear Algebra)](https://github.com/andreaciccarone/MA-Columbia-Math-Camp-2023/blob/gh-pages/Problem%20Sets/PS2_2023.pdf) with [solutions](https://github.com/andreaciccarone/MA-Columbia-Math-Camp-2023/blob/gh-pages/Problem%20Sets/PS2_Solutions_2023.pdf)
 	* Date Posted : Monday August 21st
 	* Date Due : Tuesday August 28th	
-3. [Problem Set 3 (Multivariate Calculus, Convexity, Optimization)] (https://github.com/andreaciccarone/MA-Columbia-Math-Camp-2023/blob/gh-pages/Problem%20Sets/PS3_2023.pdf)
+3. [Problem Set 3 (Multivariate Calculus, Convexity, Optimization)] (https://github.com/andreaciccarone/MA-Columbia-Math-Camp-2023/blob/gh-pages/Problem%20Sets/PS3_2023.pdf) with [solutions](https://github.com/andreaciccarone/MA-Columbia-Math-Camp-2023/blob/gh-pages/Problem%20Sets/PS3_Solutions_2023.pdf)
 	* Date Posted : Monday August 28th
 	* Date Due : Tuesday September 5th
 
